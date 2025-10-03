@@ -1,6 +1,6 @@
 # Nicolas Morganti — Quant & Risk Analytics
 
-**MSc Applied Mathematics & Quant Finance.** Ex-Quant Risk Analyst Intern @ CSSF (Lux).  
+**MSc Applied Mathematics & Quant Finance.** Ex-Quant Risk Analyst Intern @CSSF (Lux).  
 Python • SQL • Power BI • Derivatives • Risk • Backtesting • Forecasting
 
 - 🔭 Current focus: option pricing app, VaR toolkit, power-load forecasting, algo trading.
