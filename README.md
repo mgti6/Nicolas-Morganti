@@ -9,7 +9,7 @@ Python • SQL • Power BI • Derivatives • Risk • Backtesting • Forecas
 - 📫 Contact: nicolas.morganti4@gmail.com · [LinkedIn](https://linkedin.com/in/nicolas-morganti)
 
 ## Featured projects
-- 🎛 **Option Pricing App (Streamlit)** — BS/Tree/Monte Carlo + Greeks, scenarios, hedging sim.  
+- 🎛 **Option Pricing App (Streamlit)** — BS/Tree/Monte Carlo  
 - 📉 **VaR Models** — Historical / Variance-Covariance / Monte Carlo with backtests & stress.
 - 📉 **Algo Trading** 
 - 📈 **Backtesting Mini** — SMA/Breakout, position sizing, risk metrics (Sharpe, DD).  
